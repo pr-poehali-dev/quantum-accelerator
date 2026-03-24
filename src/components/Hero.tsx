@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/10900ab2-55b6-4d16-b05e-9b09b3118385/files/4e2941c6-3c0f-49ad-822e-673ac46f845c.jpg"
-          alt="Горный пейзаж"
+          src="https://sun9-23.userapi.com/s/v1/ig2/haGP9TqAEcfBrzc7WzJ4ERw8tEj8vtPW70krDQQWMGxNO74amyNsCdG5YCW90djnlrUfsPkLGWNRDNdhRO5g37YE.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,2560x1707&from=bu&cs=2560x0"
+          alt="Дикая Планета"
           className="w-full h-full object-cover"
         />
       </motion.div>
