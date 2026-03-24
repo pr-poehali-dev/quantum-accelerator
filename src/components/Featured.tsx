@@ -3,7 +3,7 @@ export default function Featured() {
     <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-white">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <img
-          src="https://cdn.poehali.dev/projects/10900ab2-55b6-4d16-b05e-9b09b3118385/files/0fb6b3c2-790b-44f2-bf3a-c6a0ff9caea1.jpg"
+          src="https://sun9-52.userapi.com/s/v1/ig2/DPAdZrXtFpGk125dvysWBMYZ67NzD21H-NYgsQorm6N4viLbieeFoFBUH1CpJo1wBZl6cDkCkl_2jOnqvlHqUSJf.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x426,720x480,1080x720,1280x853,1440x960,2560x1706&from=bu&cs=2560x0"
           alt="Туристы в путешествии"
           className="w-full h-full object-cover"
         />
