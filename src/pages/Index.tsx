@@ -22,6 +22,7 @@ const Index = () => {
               <a href="tel:+79147740496" className="text-white hover:text-neutral-400 transition-colors text-sm">+7 (914) 774-04-96</a>
               <a href="https://vk.com/dikaia_planeta" target="_blank" rel="noopener noreferrer" className="text-white hover:text-neutral-400 transition-colors text-sm">ВКонтакте</a>
               <a href="https://t.me/dikaia_planeta" target="_blank" rel="noopener noreferrer" className="text-white hover:text-neutral-400 transition-colors text-sm">Telegram</a>
+              <a href="https://www.youtube.com/@Дикая_Планета" target="_blank" rel="noopener noreferrer" className="text-white hover:text-neutral-400 transition-colors text-sm">YouTube</a>
             </div>
           </div>
           <p className="text-neutral-400 text-sm">{new Date().getFullYear()} ООО Дикая Планета</p>
