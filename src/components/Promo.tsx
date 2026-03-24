@@ -18,7 +18,7 @@ export default function Promo() {
       <div className="fixed top-[-10vh] left-0 h-[120vh] w-full">
         <motion.div style={{ y }} className="relative w-full h-full">
           <img
-            src="https://cdn.poehali.dev/projects/10900ab2-55b6-4d16-b05e-9b09b3118385/files/4ef64b52-bf6e-4ad4-80dd-41d33b6de286.jpg"
+            src="https://sun9-52.userapi.com/s/v1/ig2/DPAdZrXtFpGk125dvysWBMYZ67NzD21H-NYgsQorm6N4viLbieeFoFBUH1CpJo1wBZl6cDkCkl_2jOnqvlHqUSJf.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x426,720x480,1080x720,1280x853,1440x960,2560x1706&from=bu&cs=2560x0"
             alt="Тропический остров с воздуха"
             className="w-full h-full object-cover"
           />
