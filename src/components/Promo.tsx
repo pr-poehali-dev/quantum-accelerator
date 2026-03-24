@@ -18,7 +18,7 @@ export default function Promo() {
       <div className="fixed top-[-10vh] left-0 h-[120vh] w-full">
         <motion.div style={{ y }} className="relative w-full h-full">
           <img
-            src="https://sun9-52.userapi.com/s/v1/ig2/DPAdZrXtFpGk125dvysWBMYZ67NzD21H-NYgsQorm6N4viLbieeFoFBUH1CpJo1wBZl6cDkCkl_2jOnqvlHqUSJf.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x426,720x480,1080x720,1280x853,1440x960,2560x1706&from=bu&cs=2560x0"
+            src="https://sun9-55.userapi.com/s/v1/ig2/SO7yLul-6Z5O6L1f41BSQPW7LiRdZyphtHMZ-xeGga6ll93fAoInKbtRiO4s5IAzrVrxgttsjAcL-V25RVEDzeUZ.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,2560x1707&from=bu&cs=2560x0"
             alt="Тропический остров с воздуха"
             className="w-full h-full object-cover"
           />
