@@ -4,7 +4,6 @@ import Featured from "@/components/Featured";
 import Promo from "@/components/Promo";
 import Tours from "@/components/Tours";
 import ContactForm from "@/components/ContactForm";
-import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
@@ -15,7 +14,6 @@ const Index = () => {
       <Promo />
       <Tours />
       <ContactForm />
-      <Footer />
     </main>
   );
 };
