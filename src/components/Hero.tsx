@@ -19,7 +19,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://sun9-79.userapi.com/s/v1/ig2/w1cmPaczjwXqWbO-1dwnoOCJUaS0ulpDc2udDs7-OZD23GH51fqd7fUUdZSom-vjolctox44nFmaoW7o3B9QTsaJ.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,2560x1707&from=bu&cs=2560x0"
+          src="https://sun9-53.userapi.com/s/v1/ig2/cZAIvjTnhc4lRDeJ7W14KZXo97G4dSvF0tDHezsyrVmQRQKRiK_mhmEP54F7AeJmE-DsMS8SuF6ad3EKt6YmO-Mt.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x720,1280x853,1440x960,2560x1707&from=bu&cs=2560x0"
           alt="Дикая Планета"
           className="w-full h-full object-cover"
         />
