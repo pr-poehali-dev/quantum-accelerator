@@ -52,9 +52,11 @@ export default function Footer() {
               </div>
             </div>
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4 sm:gap-0">
-              <h1 className="text-[9vw] sm:text-[8vw] lg:text-[7vw] leading-[0.8] mt-4 sm:mt-6 lg:mt-10 text-white font-bold tracking-tight">
-                ДИКАЯ ПЛАНЕТА
-              </h1>
+              <img
+                src="https://sun9-50.userapi.com/s/v1/ig2/CSvPdTnbNq-L5olf-t0exIsvwxvm43_fuZEuDECs_3crZmLIrtYD-ijwCqws4BizpL-8TUZ-xcY3ktRojoT4Jfn4.jpg?quality=95&as=32x28,48x42,72x63,108x95,160x141,240x211,360x317,480x422,540x475,640x563,720x633,1080x950,1280x1126,1440x1266,2390x2102&from=bu&cs=2390x0"
+                alt="Дикая Планета"
+                className="h-24 sm:h-32 lg:h-40 w-auto object-contain mt-4 sm:mt-6 lg:mt-10"
+              />
               <p className="text-white text-sm sm:text-base">{new Date().getFullYear()} ООО Дикая Планета</p>
             </div>
           </div>
