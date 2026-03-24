@@ -3,7 +3,7 @@ export default function Featured() {
     <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-white">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <img
-          src="https://sun9-47.userapi.com/s/v1/ig2/aKy2AHGTPnnJj1vDpfhEGJ-kBG_Ew3FjnBVGdxI3_EDBg2cuPfRatutNC1u1EUJ9nHXqs5wvW4YgOdGocO19PgdP.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1920x0"
+          src="https://sun9-59.userapi.com/s/v1/ig2/ghVK-L1hlu2MePHjRj76TG_hcD8_dk1fIBxDSsJMtOoGL3LVpm1KHAWS9y3ffzGvB6m_KW8fuulnEOy_RyvrGCGc.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&from=bu&cs=1920x0"
           alt="Туристы в путешествии"
           className="w-full h-full object-cover"
         />
